@@ -1,0 +1,16 @@
+{
+  "name": "kas-to-ass",
+  "version": "0.0.1",
+  "description": "Convert .kas to .ass online.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kas",
+    "ass",
+    "subtitle"
+  ],
+  "author": "ipid",
+  "license": "MIT"
+}
